@@ -61,7 +61,7 @@ Full Stack Engineer with **12+ years of experience** building high-scalability E
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
 | **DuoSaldo** | Personal financial management platform built for speed and agility. | Vue.js, Nuxt 4, Neon, PostgreSQL | [duosaldo.eudis.app](https://duosaldo.eudis.app) |
-| **TopLSR** | Real-time predictive analytics system for cryptocurrency futures markets. | Node.js, WebSockets, Open Interest, Funding | [toplsr.eudis.app](https://toplsr.eudis.app) |
+| **TopLSR** | Real-time predictive analytics system for cryptocurrency futures markets. | Vue.js, Quasar, Node.js, Supabase | [toplsr.eudis.app](https://toplsr.eudis.app) |
 
 ---
 
